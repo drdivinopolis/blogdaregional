@@ -6,14 +6,42 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-01-05T17:24:19-02:00"
+      "last_modified": "2021-01-05T18:17:47-02:00"
+    },
+    {
+      "path": "atribuicoes.html",
+      "title": "Atribuições da Diretoria Regional",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-01-05T18:24:44-02:00"
+    },
+    {
+      "path": "equipetecnica.html",
+      "title": "Equipe Técnica",
+      "author": [],
+      "contents": "\r\nSandra Meire Guimarães\r\nCargo: Diretora Regional\r\nMestre em Ciências Sociais pela PUCMinas, na linha de pesquisa: Políticas Públicas, Participação e Poder Local. Graduada em Ciências Sociais pelo INESP/ UEMG - unidade de Divinópolis. Pós-graduada (lato sensu) em Comunicação Contemporânea e Informação Visual pela PUCMinas (PREPES, 2003). Colaborou com a equipe de pesquisa e extensão da UEMG - unidade de Divinópolis, no desenvolvimento de estudos e intervenções acerca das políticas de segurança alimentar e nutricional e, na implementação de planos diretores na região oeste de Minas Gerais. Acumula experiência técnico-científica nas áreas de planejamento urbano com foco nas políticas públicas, elaboração de diagnósticos socioculturais e socioterritoriais, e aplicação de metodologias participativas de planejamento. Docente da UEMG Unidade de Cláudio de 2016 a primeiro semestre de 2018. Período em que desenvolveu atividades de pesquisa e extensão e lecionou nos cursos de graduação em Administração, Ciências Contábeis, Pedagogia e Serviço Social. Atualmente ocupa o cargo de Diretora Regional da Secretaria de Estado de Desenvolvimento Social (SEDESE), que atende 60 municípios do território Oeste de Minas Gerais.\r\nCurrículo Lattes\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-01-05T18:35:32-02:00"
     },
     {
       "path": "index.html",
       "title": "Blog da Regional",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-01-05T17:24:22-02:00"
+      "last_modified": "2021-01-05T18:17:49-02:00"
+    },
+    {
+      "path": "leisimportantes.html",
+      "title": "Leis importantes",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-01-05T18:22:27-02:00"
+    },
+    {
+      "path": "municipios.html",
+      "title": "Municípios que fazem parte da Diretoria Regional",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-01-05T18:23:19-02:00"
     }
   ],
   "collections": ["posts/posts.json"]
