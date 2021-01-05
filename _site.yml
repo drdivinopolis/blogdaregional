@@ -16,8 +16,8 @@ navbar:
           href: atribuicoes.html
         - text: "Equipe"
           href: equipetecnica.html
-    - text: "Leis importantes"
-      href: leisimportantes.html
+    - text: "Normativas"
+      href: normativas.html
     - text: "Municipios"
       href: municipios.html
     - text: FAQ
