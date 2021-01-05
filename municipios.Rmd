@@ -2,3 +2,52 @@
 title: "Municípios que fazem parte da Diretoria Regional"
 output: html_document
 ---
+
+```{r mapplot, echo=FALSE}
+##########################################
+#####  Instalando pacotes ##########
+#install.packages("geobr")
+library(geobr)
+library(sf)
+library(ggplot2)
+library(xlsx)
+library(dplyr)
+library(RColorBrewer)
+#install.packages("ggspatial")
+library(ggspatial)
+
+municmg <- read_municipality(code_muni = 31)
+mg <- read_state(code_state = 31)
+
+### dados das regionais ###
+regionais <- read.xlsx("C:/Users/julia/Documents/SEDESE/TELETRABALHO/Planejamento 2021/regionais.xlsx", 
+          sheetName = "list") %>% 
+  select(IBGE7dig,diregional) %>% 
+  rename (code_muni=IBGE7dig)
+
+mapplot <- inner_join(municmg,regionais, by="code_muni")
+divreg <- mapplot[mapplot$diregional=="Divinopolis",] 
+
+
+###criar circunscricoes novas para as regionais ####
+sf_regionais <- mapplot %>% 
+  dplyr::group_by(diregional) %>% 
+  dplyr::summarise() %>% 
+  dplyr::ungroup()
+dplyr::glimpse(sf_regionais)
+
+
+
+####plotar no mapa ####
+ggplot (mapplot)+
+  geom_sf(data = divreg, fill = "salmon1") +
+  geom_sf(fill = "transparent") +
+  annotation_scale(location = "bl") +
+  annotation_north_arrow(location="tl", 
+                         style = north_arrow_nautical(),
+                         width = unit(1.8, "cm"),
+                         height = unit(1.8, "cm"))+
+  ggtitle("Diretoria Regional de Divinópolis (SEDESE)") +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  theme_gray()
+```

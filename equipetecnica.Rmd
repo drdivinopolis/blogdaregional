@@ -5,7 +5,7 @@ output: html_document
 
 ## Sandra Meire Guimarães
 
-### Cargo: Diretora Regional
+**Cargo: Diretora Regional**
 
 Mestre em Ciências Sociais pela PUCMinas, na linha de pesquisa: Políticas Públicas, Participação e Poder Local. Graduada em Ciências Sociais pelo INESP/ UEMG - unidade de Divinópolis. Pós-graduada (lato sensu) em Comunicação Contemporânea e Informação Visual pela PUCMinas (PREPES, 2003). Colaborou com a equipe de pesquisa e extensão da UEMG - unidade de Divinópolis, no desenvolvimento de estudos e intervenções acerca das políticas de segurança alimentar e nutricional e, na implementação de planos diretores na região oeste de Minas Gerais. Acumula experiência técnico-científica nas áreas de planejamento urbano com foco nas políticas públicas, elaboração de diagnósticos socioculturais e socioterritoriais, e aplicação de metodologias participativas de planejamento. Docente da UEMG Unidade de Cláudio de 2016 a primeiro semestre de 2018. Período em que desenvolveu atividades de pesquisa e extensão e lecionou nos cursos de graduação em Administração, Ciências Contábeis, Pedagogia e Serviço Social. Atualmente ocupa o cargo de Diretora Regional da Secretaria de Estado de Desenvolvimento Social (SEDESE), que atende 60 municípios do território Oeste de Minas Gerais.
 
