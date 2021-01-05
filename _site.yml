@@ -12,13 +12,13 @@ navbar:
       href: index.html
     - text: "A Regional"
       menu:
-        - text: "Atribuicoes"
+        - text: "Atribuições"
           href: atribuicoes.html
         - text: "Equipe"
           href: equipetecnica.html
     - text: "Leis importantes"
       href: leisimportantes.html
-    - text: "Municipios"
+    - text: "Municípios"
       href: municipios.html
     - text: FAQ
       href: faq.html
