@@ -3,11 +3,59 @@ title: "Equipe Técnica"
 output: html_document
 ---
 
+## Amanda Cristina Bento Braga
+**Especialista em Políticas Públicas e Gestão Governamental (EPPGG)**
+<br> Graduada em Administração Pública pela Escola de Governo Professor Paulo Neves de Carvalho da Fundação João Pinheiro (EG-FJP).
+
+
+
+
+## Breno Porfírio
+**Analista de Gestão e Políticas Públicas em Desenvolvimento (AGPPD)**
+<br> *Contratado temporariamente, através de processo seletivo, para exercer a função de Analista de Gestão e Políticas Públicas em Desenvolvimento, objetivando atendimento aos municípios da Regional, afetados pelo rompimento da Barragem em Brumadinho.*
+
+
+
+
+## Eveline Pardini Chaves
+**Analista de Gestão e Políticas Públicas em Desenvolvimento (AGPPD)**
+<br> Graduada em Serviço Social.
+
+
+
+
+## Janete Aparecida dos Santos
+**Assistente Administrativa** 
+
+
+
+## Marta Maria
+**Auxiliar de Serviços Gerais**
+
+
+
+
+## Patrícia Diniz Curto
+**Analista de Gestão e Políticas Públicas em Desenvolvimento (AGPPD)**
+<br> Graduada em Psicologia pela Universidade Federal de Minas Gerais (UFMG).
+
+
+
 ## Sandra Meire Guimarães
-
-**Cargo: Diretora Regional**
-
-Mestre em Ciências Sociais pela PUCMinas, na linha de pesquisa: Políticas Públicas, Participação e Poder Local. Graduada em Ciências Sociais pelo INESP/ UEMG - unidade de Divinópolis. Pós-graduada (lato sensu) em Comunicação Contemporânea e Informação Visual pela PUCMinas (PREPES, 2003). Colaborou com a equipe de pesquisa e extensão da UEMG - unidade de Divinópolis, no desenvolvimento de estudos e intervenções acerca das políticas de segurança alimentar e nutricional e, na implementação de planos diretores na região oeste de Minas Gerais. Acumula experiência técnico-científica nas áreas de planejamento urbano com foco nas políticas públicas, elaboração de diagnósticos socioculturais e socioterritoriais, e aplicação de metodologias participativas de planejamento. Docente da UEMG Unidade de Cláudio de 2016 a primeiro semestre de 2018. Período em que desenvolveu atividades de pesquisa e extensão e lecionou nos cursos de graduação em Administração, Ciências Contábeis, Pedagogia e Serviço Social. Atualmente ocupa o cargo de Diretora Regional da Secretaria de Estado de Desenvolvimento Social (SEDESE), que atende 60 municípios do território Oeste de Minas Gerais.
+**Diretora Regional**
+<br> Mestre em Ciências Sociais pela PUCMinas, na linha de pesquisa: Políticas Públicas, Participação e Poder Local. Graduada em Ciências Sociais pelo INESP/ UEMG - unidade de Divinópolis. Pós-graduada (lato sensu) em Comunicação Contemporânea e Informação Visual pela PUCMinas (PREPES, 2003). Colaborou com a equipe de pesquisa e extensão da UEMG - unidade de Divinópolis, no desenvolvimento de estudos e intervenções acerca das políticas de segurança alimentar e nutricional e, na implementação de planos diretores na região oeste de Minas Gerais. Acumula experiência técnico-científica nas áreas de planejamento urbano com foco nas políticas públicas, elaboração de diagnósticos socioculturais e socioterritoriais, e aplicação de metodologias participativas de planejamento. Docente da UEMG Unidade de Cláudio de 2016 a primeiro semestre de 2018. Período em que desenvolveu atividades de pesquisa e extensão e lecionou nos cursos de graduação em Administração, Ciências Contábeis, Pedagogia e Serviço Social. Atualmente ocupa o cargo de Diretora Regional da Secretaria de Estado de Desenvolvimento Social (SEDESE), que atende 60 municípios do território Oeste de Minas Gerais.
 
 [Currículo Lattes](http://lattes.cnpq.br/9713258192372577)
 
+
+
+
+## Sandra Santos de Moura
+**Assistente Administrativa** 
+
+
+
+
+## Vitor Cândido Leles de Paulo
+**Especialista em Políticas Públicas e Gestão Governamental (EPPGG)**
+<br> Mestre em Ciência Política pela Universidade Federal de Minas Gerais (UFMG). Graduado em Administração Pública pela Escola de Governo Professor Paulo Neves de Carvalho da Fundação João Pinheiro (EG-FJP). Atua na Secretaria de Estado de Desenvolvimento Social (SEDESE) desde 2014.

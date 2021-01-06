@@ -1,4 +1,35 @@
 ---
-title: "Normativas importantes"
+title: "Normativas e documentos importantes"
 output: html_document
 ---
+
+## Organização do Sistema Único de Assistência Social
+- [**Lei 8745/1993:** Lei Orgânica da Assistência Social](http://www.planalto.gov.br/ccivil_03/leis/l8742.htm)
+- [**PNAS:** Política Nacional de Assistência Social](http://www.mds.gov.br/webarquivos/publicacao/assistencia_social/Normativas/PNAS2004.pdf)
+- [**NOB-SUAS:** Norma Operacional Básica do SUAS](http://www.mds.gov.br/webarquivos/publicacao/assistencia_social/Normativas/PNAS2004.pdf)
+- [**Resolução CNAS n° 109/2009:** Tipificação Nacional de Serviços Socioassistenciais](http://www.mds.gov.br/webarquivos/public/resolucao_CNAS_N109_%202009.pdf)
+
+## Recursos Humanos
+- [**NOB-RH:** Norma Operacional Básica de Recursos Humanos]()
+- [**Resolução CNAS nº 17/2011:**]()
+- [**Resolução CNAS nº 09/2014:**]()
+- [Caderno de Orientações Técnicas sobre os Gastos no Pagamento dos Profissionais das Equipes de Referência do SUAS](http://www.mds.gov.br/webarquivos/publicacao/assistencia_social/Cadernos/caderno_orientacoestecnicas_gastosnopagamento.pdf)
+
+
+## Gestão Financeira e Orçamentária no SUAS
+- [**Portaria 113/2015:**](http://blog.mds.gov.br/fnas/wp-content/uploads/2018/06/Portaria_N%C2%B0_113_2015.pdf)
+
+
+
+## Serviços
+### PAIF
+
+
+### SCFV
+
+
+
+## Benefícios eventuais
+- [**Decreto Federal 6.307/2007**](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6307.htm)
+- [**Orientações técnicas sobre Benefícios Eventuais no SUAS**](http://www.mds.gov.br/webarquivos/publicacao/assistencia_social/Cadernos/Orienta%C3%A7%C3%B5es%20T%C3%A9cnias%20sobre%20Benef%C3%ADcios%20Eventuais%20no%20SUAS.pdf)
+
