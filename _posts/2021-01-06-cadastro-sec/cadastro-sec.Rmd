@@ -1,0 +1,23 @@
+---
+title: "Diretoria Regional atualiza cadastro de secretárias(os)"
+description: |
+  A short description of the post.
+author:
+  - name: Diretoria Regional de Divinópolis
+    url: 
+date: 01-06-2021
+output:
+  distill::distill_article:
+    self_contained: false
+    draft: true
+---
+
+```{r include=FALSE}
+library(knitr)
+```
+
+
+https://forms.gle/i49EMwJqqNnYWyPX8
+
+
+

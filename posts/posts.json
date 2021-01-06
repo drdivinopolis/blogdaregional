@@ -1,19 +1,36 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to Blog da Regional",
-    "description": "Welcome to our new blog, Blog da Regional. We hope you enjoy \nreading what we have to say!",
+    "path": "posts/2021-01-06-cadastro-sec/",
+    "title": "Diretoria Regional atualiza cadastro de secretárias(os)",
+    "description": "A short description of the post.",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Diretoria Regional de Divinópolis",
+        "url": {}
+      }
+    ],
+    "date": "2021-01-06",
+    "categories": [],
+    "contents": "\r\nhttps://forms.gle/i49EMwJqqNnYWyPX8\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-01-06T18:09:17-02:00",
+    "input_file": "cadastro-sec.utf8.md"
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Bem-vinda(o) ao Blog da Regional",
+    "description": "Bem-vinda(o) ao Blog da Regional.",
+    "author": [
+      {
+        "name": "Diretoria Regional de Divinópolis",
+        "url": {}
       }
     ],
     "date": "2021-01-05",
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-01-05T16:30:45-02:00",
-    "input_file": {}
+    "last_modified": "2021-01-06T18:18:36-02:00",
+    "input_file": "welcome.utf8.md"
   }
 ]
