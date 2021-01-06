@@ -37,18 +37,18 @@
       "last_modified": "2021-01-05T18:17:49-02:00"
     },
     {
-      "path": "leisimportantes.html",
-      "title": "Leis importantes",
-      "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-01-05T18:39:48-02:00"
-    },
-    {
       "path": "municipios.html",
       "title": "Municípios que fazem parte da Diretoria Regional",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
       "last_modified": "2021-01-05T21:33:53-02:00"
+    },
+    {
+      "path": "normativas.html",
+      "title": "Normativas importantes",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-01-06T10:42:33-02:00"
     }
   ],
   "collections": ["posts/posts.json"]
