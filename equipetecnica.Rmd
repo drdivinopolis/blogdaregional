@@ -19,7 +19,7 @@ output: html_document
 
 ## Eveline Pardini Chaves
 **Analista de Gestão e Políticas Públicas em Desenvolvimento (AGPPD)**
-<br> Graduada em Serviço Social.
+<br> Eveline Pardini Chaves atua como Analista de Políticas Públicas na SEDESE desde 2015. Com formação em Serviço Social e Pós Graduação em Gestão do SUAS pela FACED (Faculdade Divinópolis), acumula experiências nas políticas de Assistência Social (proteção social básica), Saúde (média complexidade) e Segurança Pública (sistema penitenciário).
 
 
 
