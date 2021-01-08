@@ -29,7 +29,8 @@ navbar:
     - icon: fa fa-facebook
       href: https://facebook.com/drdivinopolis
     - icon: fa fa-rss
-      href: index.xml 
+      href: index.xml
+footer: footer.html
 output: distill::distill_article
 output_dir: "."
       

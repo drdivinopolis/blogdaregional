@@ -9,27 +9,90 @@ output: html_document
 - [**NOB-SUAS:** Norma Operacional Básica do SUAS](http://www.mds.gov.br/webarquivos/publicacao/assistencia_social/Normativas/PNAS2004.pdf)
 - [**Resolução CNAS n° 109/2009:** Tipificação Nacional de Serviços Socioassistenciais](http://www.mds.gov.br/webarquivos/public/resolucao_CNAS_N109_%202009.pdf)
 
+
 ## Recursos Humanos
 - [**NOB-RH:** Norma Operacional Básica de Recursos Humanos]()
 - [**Resolução CNAS nº 17/2011:**]()
 - [**Resolução CNAS nº 09/2014:**]()
-- [Caderno de Orientações Técnicas sobre os Gastos no Pagamento dos Profissionais das Equipes de Referência do SUAS](http://www.mds.gov.br/webarquivos/publicacao/assistencia_social/Cadernos/caderno_orientacoestecnicas_gastosnopagamento.pdf)
+- [**Caderno de Orientações Técnicas sobre os Gastos no Pagamento dos Profissionais das Equipes de Referência do SUAS**](http://www.mds.gov.br/webarquivos/publicacao/assistencia_social/Cadernos/caderno_orientacoestecnicas_gastosnopagamento.pdf)
+- [**Política Nacional de Educação Permanente**](http://www.mds.gov.br/webarquivos/publicacao/assistencia_social/Normativas/Politica-nacional-de-Educacao-permanente.pdf)
 
 
 ## Gestão Financeira e Orçamentária no SUAS
+### Cofinanciamento federal
 - [**Portaria 113/2015:**](http://blog.mds.gov.br/fnas/wp-content/uploads/2018/06/Portaria_N%C2%B0_113_2015.pdf)
 
+#### IGD-SUAS
+
+
+
+#### Índice de Gestão Descentralizada do Programa Bolsa Família e do Cadastro Único (IGD-PBF)
+- [**Manual do Índice de Gestão Descentralizada do Programa Bolsa Família e do Cadastro Único**](http://www.mds.gov.br/webarquivos/publicacao/bolsa_familia/Guias_Manuais/ManualIGD.pdf)
+
+
+### Cofinanciamento estadual
+
+#### Piso Mineiro de Assistência Social
+- [**Caderno de Orientações do Piso Mineiro de Assistência Social**](http://200.198.9.104/images/documentos/capacita_suas/caderno_orientacoes/Cartilha_AMM%20-%202016.pdf)
 
 
 ## Serviços
-### PAIF
+
+### Proteção Social Básica
+
+- [**Caderno Orientações Técnicas Centro de Referência de Assistência Social - CRAS**](http://www.mds.gov.br/webarquivos/publicacao/assistencia_social/Cadernos/orientacoes_Cras.pdf)
+
+- [**Referências técnicas para a atuação do (a) psicólogo(a) no CRAS**](www.crpsp.org.br/portal/comunicacao/artes-graficas/arquivos/2008-CREPOP-CRAS-SUAS.pdf)
+ 
+- [**Protocolo de Gestão Integrada de Serviços, Benefícios e Transferências de Renda no âmbito do Sistema Único de Assistência Social - SUAS**](http://www.assistenciasocial.al.gov.br/sala-de-imprensa/arquivos/Protocolo%20de%20Gestaa3o_internet.pdf)
 
 
-### SCFV
+#### PAIF
+ 
+- [**Orientações técnicas sobre o PAIF** - vol.1](http://www.mds.gov.br/webarquivos/publicacao/assistencia_social/Cadernos/Orientacoes_PAIF_1.pdf)
+ 
+- [**Orientações técnicas sobre o PAIF** - vol.2](http://www.mds.gov.br/webarquivos/publicacao/assistencia_social/Cadernos/Orientacoes_PAIF_2.pdf)
+ 
+- [**Caderno Estadual de Orientações:** A prevenção e o trabalho social com famílias na Proteção Social Básica](https://craspsicologia.files.wordpress.com/2016/10/caderno-de-orientac3a7c3b5es-a-prevenc3a7c3a3o-e-o-trabalho-social-com-famc3adlias-na-protec3a7c3a3o-social-bc3a1sica.pdf)
+
+- [**Caderno Fundamentos ético-políticos e rumos teórico-metodológicos para fortalecer o Trabalho Social com Famílias na Política Nacional de Assistência Social**](www.mds.gov.br/webarquivos/publicacao/assistencia_social/Cadernos/TrabalhoSocialcomFamilias.pdf)
+
+
+#### SCFV
+
+- [**Caderno Perguntas Frequentes SCFV**](http://www.mds.gov.br/webarquivos/publicacao/assistencia_social/perguntas_e_respostas/PerguntasFrequentesSCFV_032017.pdf)
+
+- [**Caderno Concepção de Convivência e Fortalecimento de Vínculos**](http://www.mds.gov.br/webarquivos/publicacao/assistencia_social/Cadernos/concepcao_fortalecimento_vinculos.pdf)
+
+- [**Caderno de Orientações sobre a Articulação entre  PAIF e SCFV**](http://www.mds.gov.br/webarquivos/arquivo/assistencia_social/cartilha_paif_2511.pdf)
+
+- [**Caderno de Atividades do SCFV para crianças de 0 a 6 anos**](http://www.mds.gov.br/webarquivos/publicacao/crianca_feliz/CADERNO-ATIVIDADES-DIGITAL-28122018.pdf)
+
+
+### Proteção Social Especial de Média Complexidade
+
+
+### Proteção Social Especial de Alta Complexidade
+[**Caderno de Orientações:** Atuação socioassistencial em contexto de emergência e calamidade pública](https://social.mg.gov.br/images/SUBAS/calamidade_publica/Caderno-de-Orientaes_-Atuao-Socioassistencial-em-Contextos-de-Emerg_compressed.pdf)
+
+## Benefícios 
+### Programa Bolsa Família
+[**Guia para Acompanhamento das Condicionalidades do Programa Bolsa Família**](http://www.mds.gov.br/webarquivos/publicacao/bolsa_familia/Guias_Manuais/Acompanhamento_condicionalidades.pdf)
+
+
+### Benefício de Prestação Continuada
 
 
 
-## Benefícios eventuais
+### Benefícios eventuais
 - [**Decreto Federal 6.307/2007**](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6307.htm)
 - [**Orientações técnicas sobre Benefícios Eventuais no SUAS**](http://www.mds.gov.br/webarquivos/publicacao/assistencia_social/Cadernos/Orienta%C3%A7%C3%B5es%20T%C3%A9cnias%20sobre%20Benef%C3%ADcios%20Eventuais%20no%20SUAS.pdf)
+
+
+## Vigilância Socioassistencial
+- [**Caderno de Orientações:** “Sentidos e caminhos da vigilância socioassistencial em Minas Gerais”](http://200.198.9.104/images/documentos/capacita_suas/caderno_orientacoes/Cartilha_AMM_2017.pdf)
+- [**Orientações Técnicas da Vigilância Socioassistencial**](http://www.mds.gov.br/webarquivos/publicacao/assistencia_social/Cadernos/Orientacoes_Vigilancia.pdf)
+
+
+
 

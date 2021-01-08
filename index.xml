@@ -7,7 +7,16 @@
     <description>Blog da Regional
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>qua, 06 jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>sex, 08 jan 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Bem-vinda(o) ao Blog da Regional</title>
+      <dc:creator>Sandra Guimarães</dc:creator>
+      <link>https://drdivinopolis.github.io/blogdaregional/posts/welcome</link>
+      <description>Bem-vinda(o) ao Blog da Regional.</description>
+      <category>Boas-vindas</category>
+      <guid>https://drdivinopolis.github.io/blogdaregional/posts/welcome</guid>
+      <pubDate>sex, 08 jan 2021 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Diretoria Regional atualiza cadastro de secretárias(os)</title>
       <dc:creator>Diretoria Regional de Divinópolis</dc:creator>
@@ -15,14 +24,6 @@
       <description>A short description of the post.</description>
       <guid>https://drdivinopolis.github.io/blogdaregional/posts/2021-01-06-cadastro-sec</guid>
       <pubDate>qua, 06 jan 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bem-vinda(o) ao Blog da Regional</title>
-      <dc:creator>Diretoria Regional de Divinópolis</dc:creator>
-      <link>https://drdivinopolis.github.io/blogdaregional/posts/welcome</link>
-      <description>Bem-vinda(o) ao Blog da Regional.</description>
-      <guid>https://drdivinopolis.github.io/blogdaregional/posts/welcome</guid>
-      <pubDate>ter, 05 jan 2021 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

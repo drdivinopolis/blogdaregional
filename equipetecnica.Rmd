@@ -37,7 +37,7 @@ output: html_document
 
 ## Patrícia Diniz Curto
 **Analista de Gestão e Políticas Públicas em Desenvolvimento (AGPPD)**
-<br> Graduada em Psicologia pela Universidade Federal de Minas Gerais (UFMG).
+<br> Graduação em Psicologia pela UFMG (2008). Especialista em Intervenção Psicossocial no Contexto das Políticas Públicas pela UNA BH (2010). Especialista em Políticas Públicas pela UFMG (2013).Técnica da equipe de referência da Proteção Social Básica (CRAS) de município da região metropolitana de BH (2009-2011).Técnica Social no Programa Mediação de Conflitos do estado de MG em município da região metropolitana de BH (2011-2013).Psicóloga da equipe de Atendimento Educacional Especializado (AEE) pela Secretaria Municipal de Educação de Divinópolis (2014).Analista de Gestão e Políticas Públicas em Desenvolvimento na SEDESE Regional Divinópolis (2015 a atual). Psicóloga Clínica (2013-2016).
 
 
 
