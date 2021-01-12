@@ -3,8 +3,9 @@ title: "Atribuições da Diretoria Regional"
 output: html_document
 ---
 
+## Competências legais
 
-**[Decreto Estadual 47.761/2019]**(http://social.mg.gov.br/images/Diretorias_regionais/decreto_47067.pdf)
+A Secretaria de Estado de Desenvolvimento Social, atualmente, têm 22 Diretorias Regionais que atuam conforme dispõe o Art. 23 do [**Decreto Estadual 47.761/2019**](http://social.mg.gov.br/images/Diretorias_regionais/decreto_47067.pdf). 
 
 >Art. 23 – As Diretorias Regionais de Desenvolvimento Social têm como competência induzir e aprimorar a implantação das políticas públicas de desenvolvimento social regionalmente, conforme sua área de abrangência, bem como prestar apoio técnico a municípios, com atribuições de:
 <br>I – acompanhar a execução das ações relativas às políticas públicas de competência da Sedese em âmbito regional;
@@ -14,13 +15,22 @@ output: html_document
 <br>V – promover a gestão da governança regional das redes das políticas públicas de competência da Sedese;
 <br>VI – coordenar, promover e apoiar a realização de estudos e levantamentos de informações relevantes em sua área de abrangência para subsidiar as políticas públicas de competência da Sedese.
 
+<br>
+As 22 Diretorias Regionais atendem um conjunto restrito de municípios, conforme definido no Decreto. Abaixo, segue a relação de municípios atendidas pela Diretoria de Divinópolis:
 
-
-</br>
+<br>
 
 >V – Diretoria Regional de Desenvolvimento Social de Divinópolis:
 <br>**a) sede:** Divinópolis;
 <br>**b) área de abrangência:** Abaeté, Aguanil, Araújos, Arcos, Bambuí, Biquinhas, Bom Despacho, Camacho, Campo Belo, Cana Verde, Candeias, Carmo da Mata, Carmo do Cajuru, Carmópolis de Minas, Cedro do Abaete, Cláudio, Conceição do Para, Córrego Danta, Córrego Fundo, Cristais, Crucilândia, Divinópolis, Dores do Indaiá, Estrela do Indaiá, Formiga, Igaratinga, Iguatama, Itapecerica, Itaúna, Japaraíba, Lagoa da Prata, Leandro
 Ferreira, Luz, Maravilhas. Martinho Campos, Medeiros, Moema, Morada Nova de Minas, Nova Serrana, Oliveira, Onça de Pitangui, Paineiras, Pains, Papagaios, Passa Tempo, Pedra do Indaiá, Pequi, Perdigão, Pimenta, Piracema, Pitangui, Quartel Geral, Santana do Jacaré, Santo Antônio do Amparo, Santo Antônio do Monte, São Francisco de Paula, São Gonçalo do Pará, São Sebastião do Oeste, Serra da Saudade, Tapiraí.
+
+<br>
+
+
+
+
+## Regime Especial de Teletrabalho
+
 
 

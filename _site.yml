@@ -16,10 +16,16 @@ navbar:
           href: atribuicoes.html
         - text: "Equipe"
           href: equipetecnica.html
-    - text: "Normativas"
-      href: normativas.html
+    - text: "Documentos importantes"
+      menu:
+        - text: "Normativas"
+          href: normativas.html
+        - text: "Estudos"
+          href: estudos.html
     - text: "Municipios"
       href: municipios.html
+    - text: "Dados"
+      href: google.com
     - text: FAQ
       href: faq.html
     - icon: fa fa-github
@@ -31,6 +37,8 @@ navbar:
     - icon: fa fa-rss
       href: index.xml
 footer: footer.html
-output: distill::distill_article
+output: 
+  distill::distill_article:
+    css: theme.css
 output_dir: "."
       

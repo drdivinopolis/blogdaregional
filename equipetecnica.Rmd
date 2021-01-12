@@ -13,13 +13,14 @@ output: html_document
 ## Breno Porfírio
 **Analista de Gestão e Políticas Públicas em Desenvolvimento (AGPPD)**
 <br> *Contratado temporariamente, através de processo seletivo, para exercer a função de Analista de Gestão e Políticas Públicas em Desenvolvimento, objetivando atendimento aos municípios da Regional, afetados pelo rompimento da Barragem em Brumadinho.*
+Graduado em Psicologia pela PUC - Minas. Graduando em pedagogia pela UEMG. Especialista em Docência em Educação Básica (IFMG), em politicas publicas e socioeducação (UNB), em Politicas com ênfase em gênero e relações etnorraciais (UFOP), em Educação desigualdade social e pobreza (UFMG) e Gestão do SUAS (UCAM). Tem experiência de aproximadamente 10 anos na politica de assistência social, atuando como coordenador,  técnico de referência de proteção social básica e especial de média e alta complexidade, de alguns municípios de Minas Gerais.
 
 
 
 
 ## Eveline Pardini Chaves
 **Analista de Gestão e Políticas Públicas em Desenvolvimento (AGPPD)**
-<br> Eveline Pardini Chaves atua como Analista de Políticas Públicas na SEDESE desde 2015. Com formação em Serviço Social e Pós Graduação em Gestão do SUAS pela FACED (Faculdade Divinópolis), acumula experiências nas políticas de Assistência Social (proteção social básica), Saúde (média complexidade) e Segurança Pública (sistema penitenciário).
+<br> Atua como Analista de Políticas Públicas na SEDESE desde 2015. Com formação em Serviço Social e Pós Graduação em Gestão do SUAS pela FACED (Faculdade Divinópolis), acumula experiências nas políticas de Assistência Social (proteção social básica), Saúde (média complexidade) e Segurança Pública (sistema penitenciário).
 
 
 

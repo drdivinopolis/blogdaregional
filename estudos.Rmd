@@ -1,0 +1,6 @@
+---
+title: "Publicações importantes"
+output: html_document
+---
+
+Nesta seção são partilhadas publicações de artigos, estudos e pesquisas que são referências técnico-científicas para a análise e discussão de temas relacionados às políticas públicas da assistência social, dos direitos humanos, do emprego e renda, do uso de álcool e outras drogas, do esporte e da segurança alimentar e nutricional.
