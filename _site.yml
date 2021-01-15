@@ -16,6 +16,8 @@ navbar:
           href: atribuicoes.html
         - text: "Equipe"
           href: equipetecnica.html
+        - text: "Calendario 2021"
+          href: calendario.html
     - text: "Documentos importantes"
       menu:
         - text: "Normativas"
@@ -25,7 +27,7 @@ navbar:
     - text: "Municipios"
       href: municipios.html
     - text: "Dados"
-      href: google.com
+      href: 
     - text: FAQ
       href: faq.html
     - icon: fa fa-github
