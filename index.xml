@@ -7,7 +7,7 @@
     <description>Blog da Regional
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>sex, 08 jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Bem-vinda(o) ao Blog da Regional</title>
       <dc:creator>Sandra Guimarães</dc:creator>
@@ -15,7 +15,7 @@
       <description>Bem-vinda(o) ao Blog da Regional.</description>
       <category>Boas-vindas</category>
       <guid>https://drdivinopolis.github.io/blogdaregional/posts/welcome</guid>
-      <pubDate>sex, 08 jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Diretoria Regional atualiza cadastro de secretárias(os)</title>
@@ -23,7 +23,7 @@
       <link>https://drdivinopolis.github.io/blogdaregional/posts/2021-01-06-cadastro-sec</link>
       <description>A short description of the post.</description>
       <guid>https://drdivinopolis.github.io/blogdaregional/posts/2021-01-06-cadastro-sec</guid>
-      <pubDate>qua, 06 jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
