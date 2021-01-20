@@ -1,9 +1,9 @@
 ---
-title: "Municípios que fazem parte da Diretoria Regional"
+title: "Municípios da área de abrangência da Diretoria Regional de Divinópolis"
 output: html_document
 ---
 
-
+A área de abrangência da Diretoria Regional compreende 60 (sessenta) municípios
 
 ```{r message=FALSE, warning=FALSE, include=FALSE}
 library(readr)
@@ -55,7 +55,14 @@ ggplot (mapplot)+
 ```
 
 
+<br> Abaixo seguem breves informações populacionais sobre cada uma dos 60 municípios. De acordo com dados do IBGE de 2020, a DR Divinópolis atende uma região que compreende 1.264.106 de habitantes, onde pouco mais de 10% (130.168) autodeclaram renda abaixo de R$ 178,00 per capita no Cadastro Único (CadÚnico), configurando situação de pobreza e extrema pobreza. 
 
+<br> A DR Divinópolis faz uma divisão por blocos de municípios para referenciamento técnico, onde um(a) servidor(a) fica responsável pelo apoio técnico de alguns municípios. 
+<br>
+
+
+
+**Tabela de municípios da área de abrangência da DR Divinópolis, conforme** [**Decreto Estadual 47.761/2019**](http://social.mg.gov.br/images/Diretorias_regionais/decreto_47067.pdf)
 
 | **Código IBGE (6   dígitos)** 	| **Código IBGE (7 dígitos)** 	|  **Nome do município**  	|  [**População (Censo IBGE   2010)**](http://www.atlasbrasil.org.br/acervo/biblioteca) 	|  [**População (Estimativa IBGE   2020)**](https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html?=&t=resultados) 	|
 |:-----------------------------:	|:---------------------------:	|:-----------------------:	|:-------------------------------------------------------------------------------------:	|:---------------------------------------------------------------------------------------------------------------------------------------------------:	|

@@ -3,8 +3,25 @@ title: "Calendário 2021"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
+```{r message=FALSE, warning=FALSE, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(readr)
+library(dplyr)
+library(httr)
+library(gt)
+library(tidyverse)
+library(glue)
+
+###importar dados ###
+calendar <- read.csv("https://raw.githubusercontent.com/drdivinopolis/blogdaregional/master/data/calendar2021.csv", sep = ";", encoding = "Latin-1")
+calendar$TROCA.DE.SABERES = NULL
+calendar <- calendar [-c(29:1015),]
+
+tab1 <- 
+  calendar %>%
+  tab_header(title = "Calendário de atividades - 2021")
+
+
 ```
 
 

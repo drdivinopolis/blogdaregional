@@ -20,6 +20,10 @@
   background-color: #B22222;
   font-family: 'Montserrat', sans-serif;
   font-size: 12px;
+  border-bottom: 2px solid #DECF40;
+  -webkit-box-shadow: 1px 1px 18px #4d4d4d;
+  -moz-box-shadow: 1px 1px 18px #4d4d4d;
+  box-shadow: 1px 1px 18px #4d4d4d;
 }
 
 .distill-site-nav a {

@@ -1,7 +1,7 @@
 name: "blogdrdivi"
-title: "Blog da Regional"
+title: "Blog da Sedese Divinópolis"
 description: |
-  Blog da Regional
+  Blog da Sedese Divinópolis
 base_url: https://drdivinopolis.github.io/blogdaregional
 favicon: 
 navbar:
@@ -9,27 +9,27 @@ navbar:
     image: logomg.png
     href: http://social.mg.gov.br/ 
   right:
-    - text: "Home"
+    - text: "HOME"
       href: index.html
-    - text: "A Regional"
+    - text: "A REGIONAL"
       menu:
-        - text: "Atribuicoes"
+        - text: "ATRIBUICOES"
           href: atribuicoes.html
-        - text: "Equipe"
+        - text: "EQUIPE"
           href: equipetecnica.html
-        - text: "Calendario 2021"
+        - text: "CALENDARIO 2021"
           href: calendario.html
-    - text: "Documentos importantes"
+    - text: "DOCUMENTOS"
       menu:
-        - text: "Normativas"
+        - text: "NORMATIVAS"
           href: normativas.html
-        - text: "Estudos"
+        - text: "ESTUDOS"
           href: estudos.html
-    - text: "Municipios"
+    - text: "MUNICIPIOS"
       href: municipios.html
-    - text: "Dados"
+    - text: "DADOS"
       href: 
-    - text: FAQ
+    - text: "FAQ"
       href: faq.html
     - icon: fa fa-github
       href: https://github.com/drdivinopolis
