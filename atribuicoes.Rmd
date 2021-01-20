@@ -1,6 +1,8 @@
 ---
 title: "Atribuições da Diretoria Regional"
-output: html_document
+output:
+  distill::distill_article:
+    toc: true
 ---
 
 ## Competências legais
@@ -30,7 +32,24 @@ Ferreira, Luz, Maravilhas. Martinho Campos, Medeiros, Moema, Morada Nova de Mina
 
 
 
-## Regime Especial de Teletrabalho
+## Áreas da atuação da SEDESE
+
+### Assistência Social
+
+### Direitos Humanos
+
+### Esportes
+
+### Habitação
+
+### Política sobre Drogas
+
+### Segurança Alimentar e Nutricional
+
+### Trabalho e Emprego
+
+
+## Regime Especial de Trabalho
 
 
 

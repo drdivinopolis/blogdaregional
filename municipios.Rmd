@@ -1,6 +1,8 @@
 ---
 title: "Municípios da área de abrangência da Diretoria Regional de Divinópolis"
-output: html_document
+output:
+  distill::distill_article:
+    toc: true
 ---
 
 A área de abrangência da Diretoria Regional compreende 60 (sessenta) municípios

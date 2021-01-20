@@ -1,6 +1,8 @@
 ---
 title: "Normativas e documentos importantes"
-output: html_document
+output:
+  distill::distill_article:
+    toc: true
 ---
 
 ## Organização do Sistema Único de Assistência Social
