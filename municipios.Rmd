@@ -6,6 +6,7 @@ output: html_document
 
 
 ```{r message=FALSE, warning=FALSE, include=FALSE}
+library(readr)
 library(geobr)
 library(sf)
 library(ggplot2)
@@ -13,13 +14,13 @@ library(xlsx)
 library(dplyr)
 library(RColorBrewer)
 library(ggspatial)
+library(httr)
 
 municmg <- read_municipality(code_muni = 31)
 mg <- read_state(code_state = 31)
 
 ### dados das regionais ###
-regionais <- read.xlsx("C:/Users/julia/Documents/SEDESE/TELETRABALHO/Planejamento 2021/regionais.xlsx", 
-          sheetName = "list") %>% 
+regionais <- read.csv("https://raw.githubusercontent.com/drdivinopolis/blogdaregional/master/data/regionais.csv", sep = ";" ) %>%
   select(IBGE7dig,diregional) %>% 
   rename (code_muni=IBGE7dig)
 

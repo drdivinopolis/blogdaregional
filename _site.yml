@@ -7,6 +7,7 @@ favicon:
 navbar:
   logo: 
     image: logomg.png
+    href: http://social.mg.gov.br/ 
   right:
     - text: "Home"
       href: index.html
@@ -35,7 +36,7 @@ navbar:
     - icon: fa fa-instagram
       href: https://instagram.com/drdivinopolis
     - icon: fa fa-facebook
-      href: https://facebook.com/drdivinopolis
+      href: https://www.facebook.com/Sedese-MG-Regional-Divin%C3%B3polis-168311470183913/
     - icon: fa fa-rss
       href: index.xml
 footer: footer.html
