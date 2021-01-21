@@ -19,6 +19,8 @@ navbar:
           href: equipetecnica.html
         - text: "CALENDARIO 2021"
           href: calendario.html
+        - text: "APOIO TECNICO"
+          href: apoiotecnico.html
     - text: "DOCUMENTOS"
       menu:
         - text: "NORMATIVAS"

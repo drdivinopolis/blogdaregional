@@ -1,7 +1,26 @@
 ---
 title: "Perguntas Frequentes"
-output: html_document
+output:
+  distill::distill_article:
+    toc: true
 ---
+
+### O que faz uma Diretoria Regional?
+
+
+### Como a Diretoria Regional pode apoiar meu município?
+
+
+### A Diretoria Regional cobra pelos seus serviços prestados?
+Não.
+
+### A Diretoria Regional presta algum tipo de consultoria?
+Não.
+
+### A Diretoria Regional pode indicar a contratação de alguma empresa quando ela não consegue atender uma certa demanda?
+Não.
+
+### Quero fazer uma diferença positiva no meu município e não sei por onde começar.
 
 
 ### Outros FAQs pertinentes:

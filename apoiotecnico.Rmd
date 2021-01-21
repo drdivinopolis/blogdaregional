@@ -1,0 +1,111 @@
+---
+title: "Formas de apoio técnico"
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+---
+
+## Assessoria Técnica Especializada
+### O que é?
+É um formato de **apoio online** continuado aos municípios, criado pela Diretoria Regional de Divinópolis em substituição às visitas técnicas presenciais, com a elaboração de produtos. 
+
+
+### Como funciona?
+O processo conta com 6 (seis) etapas: 
+1. Escuta especializada; 
+2. Elaboração de proposta técnica; 
+3. Alinhamento de proposta; 
+4. Execução de projeto; 
+5. Elaboração de relatório; e 
+6. Avaliação da assessoria. 
+
+Em geral, o município envia a demanda por e-mail ou contato direto com algum servidor(a) da Diretoria Regional. Em seguida, é marcada uma reunião com as pessoas responsáveis e/ou que terão interface com a assessoria para que o problema alvo da ação seja melhor detalhado. Caso necessário, outras reuniões e/ou pedidos de caracterização do problema são solicitados. Este processo é fundamental para elaboração da proposta técnica e, consequentemente, para que ela reflita a realidade do pedido e seja aprovada. Ainda nessa etapa, são definidas referências técnicas das duas partes, município e Diretoria Regional, que formam o canal de comunicação da assessoria e são responsáveis por coordena-la de parte a parte. A proposta tem modelo de tópicos a ser incluído e, cada vez mais, deve ser bastante descritiva.
+
+### Objetivos
+* Atuar de forma planejada, garantindo uma atuação cirúrgica nos problemas e suas causas relatadas pelos municípios;
+* Construir entregas escaláveis que possam servir de exemplo para os demais municípios da região;
+* Contribuir para a operacionalização do SUAS, mediante a elaboração de materiais detalhados que se encontram mencionados nas orientações (legislações, cadernos e manuais) de forma genérica.
+
+## Atendimento individual remoto
+### O que é?
+Forma de atendimento de dúvidas mais simples e de rápida resolução por meio **remoto** (telefone, celular, e-mail ou por meio de contato por aplicativo)
+
+### Como funciona?
+Servidor municipal encaminha dúvida por meio dos canais oficiais da Diretoria Regional (drdivinopolis@social.mg.gov.br ou drdivinopolis.social@gmail.com) e é respondido por algum(a) servidor(a) da Diretoria Regional. O tempo de resposta dependerá da complexidade da dúvida encaminhada.
+
+### Objetivos
+* Dar suporte em dúvidas que surgem no cotidiano de trabalho;
+* Estabelecer contato individual e personalizado com as questões que surgem em cada território;
+* Ser referência de suporte de apoio técnico gratuito aos servidores e agentes públicos municipais.
+
+
+## Comitê de gestão
+### O que é?
+Fórum permanente de debate político e técnico acerca dos desafios da política pública de assistência social.
+
+### Como funciona?
+Encontros bimensais mantidos com as(os) secretárias(os) municipais de Assistência Social, para tratar de temas relevantes ao cotidiano da gestão. O comitê deve constituir-se em um espaço de comunicação direta e de aproximação entre gestores (as) e Diretoria Regional.
+
+### Objetivos
+* Criar espaço para interação e troca de conhecimento entre os(as) gestores(as) e deles(as) para com a Regional; 
+* Discutir temas relevantes à realidade dos municípios; 
+* Preparar os(as) secretários(as) tecnicamente para o exercício das responsabilidades municipais no SUAS 
+* Criar nos(as) gestores(as) a necessidade de maior profissionalização de suas atividades;
+* Solucionar problemas regionais.
+
+
+
+## Grupos de trabalho
+### O que é?
+Os  GT´s  são encontros regionais periódicos avaliados como uma estratégia de compartilhamento e desenvolvimento profissional por meio do debate da política pública de assistência social. O GT organiza-se com a divisão dos 60 municípios da abrangência da DR Divinópolis em grupos conforme porte e localização no território, considerando como público prioritário técnicas(os) de nível superior atuantes nos CRAS e CREAS municipais. 
+No ano de criação da atividade, 2018, a Regional executou os GT´s através de dois grupos: o da Proteção Social Básica (PSB) e o da Especial (PSE). A partir do ano de 2019, as proteções foram unificadas, sendo consideradas as dimensões territorial e porte. 
+Os encontros são centralizados na cidade sede da Regional,  Divinópolis.  As temáticas abordadas são uma combinação da análise da Regional e da escolha dos (as) trabalhadores (as) socioassistenciais
+
+### Como funciona?
+Processo esse mediado pela problematização e reflexão quanto às experiências, saberes, práticas e valores pré-existentes e que orientam a ação desses sujeitos no contexto organizacional ou da própria vida em sociedade (MDS, 2013, p. 16).
+
+### Objetivos
+* Fortalecer os vínculos regionais entre os municípios; 
+* Ampliar as possibilidades de trocas de conhecimento e experiências exitosas; 
+* Fomentar a reflexão sobre os processos de trabalho; 
+* Incentivar os municípios para o conhecimento de seu território; 
+* Consolidar a cultura de estudo das normatizações como forma de solução para os problemas; 
+* Construir metodologia provisória de atendimento no âmbito dos serviços.
+
+
+
+
+## Oficinas permanentes
+### O que é?
+As Oficinas Permanentes foram gestadas em meados de 2018, contexto em que DR Divinópolis se deparou com a escassez de recursos para ofertar capacitações nos territórios (Capacitações Microrregionais), em contraponto à crescente demanda por essa modalidade de apoio técnico. Diante das circunstâncias, e a partir das observações levantadas nos GT’s, Visitas Técnicas e Comitê de Gestores (como discrepâncias no nível de conhecimento das equipes e rotatividade de profissionais) a equipe readequou o formato das capacitações, passando a ofertá-las na sede da própria DR semanalmente, em turmas com 25 pessoas, garantindo a oferta ininterrupta deste serviço aos municípios.
+Ancorada na Política Nacional de Educação Permanente do SUAS (PNEP/SUAS), a proposta de Oficinas Permanentes parte do pressuposto de que se faz necessária  a oferta de diferentes modalidades de apoio técnico, para assegurar aos municípios um processo contínuo de atualização e renovação de conceitos, práticas e atitudes profissionais das equipes de trabalho e diferentes agrupamentos, a partir do movimento histórico, da afirmação de valores e princípios e do contato com novos aportes teóricos, metodológicos, científicos e tecnológicos disponíveis.
+
+
+### Como funciona?
+Capacitações periódicas em formato expositivo mais tradicional de comunicação entre expositor e cursante, abrindo espaços para diálogo e compartilhamento de experiências.
+
+OBS.: Durante o Regime Especial de Teletrabalho, as oficinas permanentes serão online.
+
+### Objetivos
+* Fornecer subsídios teóricos e metodológicos sobre os serviços previstos na política de Assistência Social;
+* Nivelar conhecimentos entre profissionais do SUAS;
+* Promover a troca de experiências entre os municípios;
+* Prover maior segurança aos profissionais socioassistenciais em suas decisões cotidianas, respaldados pelas legislações e orientações técnicas.
+
+
+## Visitas técnicas
+### O que é?
+São Visitas in loco da equipe técnica da Diretoria Regional (DR) ao município.
+
+### Como funciona?
+O processo é semelhante à Assessoria Técnica Especializada.
+
+### Objetivos
+* Conhecer mais de perto a realidade da assistência social local; 
+* Estabelecer uma relação de confiança com municípios da abrangência; 
+* Propor melhorias na gestão e oferta dos serviços socioassistenciais; 
+* Desenvolver tecnicamente a equipe da DR, expondo-a às diversas realidades municipais.
+
+
