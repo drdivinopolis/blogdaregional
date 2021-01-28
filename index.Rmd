@@ -1,5 +1,5 @@
 ---
-title: "Blog da Regional"
+title: "Painel"
 site: distill::distill_website
 listing: posts
 ---

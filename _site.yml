@@ -1,13 +1,14 @@
 name: "blogdrdivi"
-title: "Blog da Regional"
+title: "Painel de informações da Regional Divinópolis"
 description: |
-  Blog da Regional
+  Blog da Regional Divinópolis
 base_url: https://drdivinopolis.github.io/blogdaregional
 favicon: 
 navbar:
   logo: 
     image: logomg.png
     href: http://social.mg.gov.br/ 
+  search: false
   right:
     - text: "HOME"
       href: index.html
