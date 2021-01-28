@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Calendário 2021</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="index.html">HOME</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    A REGIONAL
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="atribuicoes.html">ATRIBUICOES</a>
+    </li>
+    <li>
+      <a href="equipetecnica.html">EQUIPE</a>
+    </li>
+    <li>
+      <a href="calendario.html">CALENDARIO 2021</a>
+    </li>
+    <li>
+      <a href="apoiotecnico.html">APOIO TECNICO</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    DOCUMENTOS
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="normativas.html">NORMATIVAS</a>
+    </li>
+    <li>
+      <a href="estudos.html">ESTUDOS</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="municipios.html">MUNICIPIOS</a>
+</li>
+<li class="dropdown-header">DADOS</li>
+<li>
+  <a href="faq.html">FAQ</a>
+</li>
+<li>
+  <a href="https://github.com/drdivinopolis">
+    <span class="fa fa fa fa-github"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://instagram.com/drdivinopolis">
+    <span class="fa fa fa fa-instagram"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://www.facebook.com/Sedese-MG-Regional-Divin%C3%B3polis-168311470183913/">
+    <span class="fa fa fa fa-facebook"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="index.xml">
+    <span class="fa fa fa fa-rss"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Calendário 2021</h1>
+
+</div>
+
+
+<div class="figure">
+<img src="images/calendar21.jpg" alt="Calendário de atividades da Diretoria Regional de Divinópolis" />
+<p class="caption">Calendário de atividades da Diretoria Regional de Divinópolis</p>
+</div>
+<p>Data - Atividade - Assunto - Título da atividade</p>
+<div id="janeiro" class="section level3">
+<h3>Janeiro</h3>
+<p><strong>22/1/2021</strong> - Comitê de Gestão - Apresentação Geral - Apresentação Geral da Diretoria Regional da SEDESE <br><strong>28/1/2021</strong> - Comitê de Gestão - Nivelamento básico (SUAS) - Estrutura do SUAS: principais legislações, princípios, diretrizes, panorama geral, financiamento</p>
+</div>
+<div id="fevereiro" class="section level3">
+<h3>Fevereiro</h3>
+<p><strong>11/2/2021</strong> - Oficina Permanente - Nivelamento básico (SUAS) - Benefícios: Benefício de Prestação Continuada, Programa Bolsa Família e Benefícios Eventuais <br><strong>18/2/2021</strong> - Oficina Permanente - Nivelamento básico (SUAS) - Serviços da Assistência Social 1: Proteção Social Básica <br><strong>25/2/2021</strong> - Oficina Permanente - Nivelamento básico (SUAS) - Serviços da Assistência Social 2: A Média Complexidade</p>
+</div>
+<div id="março" class="section level3">
+<h3>Março</h3>
+<p><strong>4/3/2021</strong> - Oficina Permanente - Nivelamento básico (SUAS) - Serviços da Assistência Social 3: A Alta Complexidade <br><strong>18/3/2021</strong> - Oficina Permanente - Nivelamento básico (SUAS) - Gestão Financeira e Orçamentária no SUAS</p>
+</div>
+<div id="abril" class="section level3">
+<h3>Abril</h3>
+<p><strong>1/4/2021</strong> - Oficina Permanente - Nivelamento básico (SUAS) - Marco Regulatório das Organizações da Sociedade Civil <br><strong>8/4/2021</strong> - Oficina Permanente - Nivelamento básico (SUAS) - Conselho Municipal de Assistência Social: atribuições, lei de criação, regimento interno, eleição, secretária executiva, exercício do controle social (planos, orçamento, PBF e entidades <br><strong>22/4/2021</strong> - Oficina Permanente - Violência contra crianças e adolescentes - Direitos das crianças e adolescentes (breve histórico, conceito, contexto atual baseado em dados, tipos de violações a esses direitos, onde denunciar, legislações pertinentes)</p>
+</div>
+<div id="maio" class="section level3">
+<h3>Maio</h3>
+<p><br><strong>6/5/2021</strong> - Oficina Permanente - Violência contra crianças e adolescentes - Conselho Tutelar: Parte 1 (Papel e competências do Conselho Tutelar) <br><strong>20/5/2021</strong> - Oficina Permanente - Violência contra crianças e adolescentes - Conselho Tutelar e Políticas Públicas: Parte 2 (Rotina de intervenção do Conselheiro Tutelar, relacionamento com Sistema de Garantia de Direitos e CMDCA )</p>
+</div>
+<div id="junho" class="section level3">
+<h3>Junho</h3>
+<p><strong>10/6/2021</strong> - Oficina Permanente - Violência contra crianças e adolescentes - Como desenhar uma estratégia de garantia de direitos às crianças e adolescentes por meio do FIA? <br><strong>24/6/2021</strong> - Oficina Permanente - Violência contra crianças e adolescentes - Atendimento a famílias com crianças e adolescentes vítimas de violência na Proteção Social Básica (PAIF e SCFV)</p>
+</div>
+<div id="julho" class="section level3">
+<h3>Julho</h3>
+<p><strong>8/7/2021</strong> - Oficina Permanente - Violência contra crianças e adolescentes - Atendimento a famílias com crianças e adolescentes vítimas de abuso sexual no PAEFI: Escuta Especializada <br><strong>15/7/2021</strong> - Comitê de Gestão - Violência contra crianças e adolescentes - Atendimento às crianças e adolescentes na alta complexidade e relacionamento com sistema judicial: Acolhimento Institucional e Família Acolhedora <br><strong>29/7/2021</strong> - Grupo de Trabalho - Violência contra crianças e adolescentes - Desenhando protocolos de atendimento à violência contra crianças e adolescentes</p>
+</div>
+<div id="agosto" class="section level3">
+<h3>Agosto</h3>
+<p><strong>5/8/2021</strong> - Oficina Permanente - Violência contra a mulher - Compreendendo o fenômeno da violência contra a mulher: desigualdades de gênero, tipificação das violações e redes de proteção. <br><strong>19/8/2021</strong> - Oficina Permanente - Violência contra a mulher - Prevenção à violência contra a mulher na PSB: possibilidades de interveção no PAIF e SCFV.</p>
+</div>
+<div id="setembro" class="section level3">
+<h3>Setembro</h3>
+<p><strong>2/9/2021</strong> - Grupo de Trabalho - Violência contra a mulher - Grupos com Mulheres Vítimas de Violência: desafios e possibilidades <br><strong>16/9/2021</strong> - Oficina Permanente - Violência contra a mulher - implementando o Conselho Municipal dos Direitos das Mulheres <br><strong>23/9/2021</strong> - Oficina Permanente - Violência contra a mulher - Atendimento às Mulheres Vítimas de Violência na PSE: possiblidades de intervenção no PAEFI</p>
+</div>
+<div id="outubro" class="section level3">
+<h3>Outubro</h3>
+<p><strong>7/10/2021</strong> - Comitê de Gestão - Violência contra a mulher - Construindo redes de enfrentamento à violência no município</p>
+</div>
+<div id="novembro" class="section level3">
+<h3>Novembro</h3>
+<p><strong>4/11/2021</strong> - Oficina Permanente - Segurança Alimentar e Nutricional - As interfaces da Política de Segurança Alimentar e Nutricional com as cinco seguranças socioassistenciais</p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
