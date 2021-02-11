@@ -23,6 +23,7 @@ output:
 
 ### Fevereiro
 **11/2/2021** - Oficina Permanente - Nivelamento básico (SUAS) - Benefícios: Benefício de Prestação Continuada, Programa Bolsa Família e Benefícios Eventuais
+<br> **Apresentações:** [Material de apresentação](https://drive.google.com/file/d/14vOYl5Wr9xgxVsFvXjZrMoGiysrQh1-5/view?usp=sharing)
 
 <br>**18/2/2021** - Oficina Permanente - Nivelamento básico (SUAS) - Serviços da Assistência Social 1: Proteção Social Básica
 
@@ -31,7 +32,9 @@ output:
 ---
 
 ### Março
-**4/3/2021** - Oficina Permanente - Nivelamento básico (SUAS) - Serviços da Assistência Social 3: A Alta Complexidade 
+**4/3/2021** - Oficina Permanente - Nivelamento básico (SUAS) - Serviços da Assistência Social 3: A Alta Complexidade
+
+<br>**17/3/2021** - Comitê de Gestão - Evento intersetorial - Entendendo as políticas públicas de habitação no Brasil
 
 <br>**18/3/2021** - Oficina Permanente - Nivelamento básico (SUAS) - Gestão Financeira e Orçamentária no SUAS
 
