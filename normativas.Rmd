@@ -96,6 +96,13 @@ output:
 - [**Orientações Técnicas da Vigilância Socioassistencial**](http://www.mds.gov.br/webarquivos/publicacao/assistencia_social/Cadernos/Orientacoes_Vigilancia.pdf)
 
 
+## Inscrição de entidades e ofertas na rede socioassistencial
+- [**Resolução CNAS n° 14/2014:** "Define os parâmetros nacionais para a inscrição das entidades ou organizações de Assistência Social, bem como dos serviços, programas, projetos e benefícios socioassistenciais nos Conselhos de Assistência Social"](http://blog.mds.gov.br/redesuas/resolucao-no-14-de-15-maio-de-2014/)
+- [**Resolução CNAS n° 27/2011:** "Caracteriza as ações de assessoramento e defesa e garantia de direitos no âmbito da Assistência Social"](http://blog.mds.gov.br/redesuas/resolucao-no-27-de-19-de-setembro-de-2011/)
+- [**Resolução CNAS n° 33/2011:** "Define a Promoção da Integração ao Mercado de Trabalho no campo da assistência social e estabelece seus requisitos"](http://blog.mds.gov.br/redesuas/resolucao-no-33-de-28-de-novembro-de-2011/)
+- [**Resolução CNAS n° 34/2011:** "Define a Habilitação e Reabilitação da pessoa com deficiência e a promoção de sua integração à vida comunitária no campo da assistência social e estabelece seus requisitos"](http://blog.mds.gov.br/redesuas/resolucao-no-34-de-28-de-novembro-de-2011/)
+
+
 ## Mais informações
 Para mais informações acesse http://aplicacoes.mds.gov.br/snas/regulacao/atos_normativos.php
 
